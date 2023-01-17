@@ -1,0 +1,12 @@
+.dialogsContainer {
+    display: flex;
+
+}
+
+.dialogs,
+.users {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+

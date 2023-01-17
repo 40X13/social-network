@@ -1,0 +1,12 @@
+
+.posts img {
+    width: 100%;
+    max-width: 70px;
+    border-radius: 100%;
+}
+
+.post{
+    display: flex;
+    align-items: center;
+}
+
