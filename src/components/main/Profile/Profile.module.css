@@ -1,0 +1,31 @@
+.profile {
+
+}
+
+
+.profile>img {
+    width: 100%;
+}
+
+.profileDescription{
+    display: flex;
+}
+.profileDescription img{
+    width: 100%;
+    max-width: 200px;
+    border-radius: 20%;
+    height: 100%;
+}
+
+profilePosts{
+
+}
+
+
+.profileInfo{
+    background-color: lightgray;
+}
+
+.profileInfo span:first-child{
+    font-weight: bold;
+}

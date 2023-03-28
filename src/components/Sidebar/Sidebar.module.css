@@ -1,0 +1,7 @@
+.sidebar {
+	display: flex;
+	flex-direction: column;
+	background-color: lightgreen;
+	grid-column: 2/3;
+	grid-row: 2/4;
+}

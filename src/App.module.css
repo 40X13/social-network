@@ -1,11 +1,11 @@
 .appConatiner {
 	height: 100vh;
-	max-width: 1200px;
-	margin: 0 auto;
 	display: grid;
-	grid-template: 70px 1fr 40px/150px 1fr;
+	grid-template: 60px 1fr 30px/1fr 160px 800px 1fr;
 }
 
 .main{
+	grid-column: 3/4;
+	grid-row: 2/4;
 	background-color:lightgoldenrodyellow;
 }
