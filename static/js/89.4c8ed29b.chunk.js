@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksocial_network=self.webpackChunksocial_network||[]).push([[89],{8089:function(s,e,n){n.r(e),n.d(e,{default:function(){return u}});var a="Messages_messages__PCad3",c=n(7781),r=n(2526),t=n(184),u=(0,c.qC)(r.Z)((function(){return(0,t.jsx)("div",{className:a,children:"Messages"})}))}}]);
+//# sourceMappingURL=89.4c8ed29b.chunk.js.map
